@@ -1,3 +1,17 @@
 /* styling the homepage - at least 2 element selectors and 1 class selector,
 paragraphs styled in helvetica with point 10 font, image must have solid
 border and set to left of self summary */
+.content {
+    font-size: 10 px;
+    font: "Helvetica";
+}
+.picture {
+    float: left;
+    width: 200 px;
+    height: 200 px;
+    border: 1 px solid #000000;
+}
+head {
+    font-size: 20 px;
+    font: "Helvetica";
+}
