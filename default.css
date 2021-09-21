@@ -1,7 +1,7 @@
 /* styling the homepage - at least 2 element selectors and 1 class selector,
 paragraphs styled in helvetica with point 10 font, image must have solid
 border and set to left of self summary */
-.content {
+p {
     font-size: 10 px;
     font: "Helvetica";
 }
@@ -11,7 +11,14 @@ border and set to left of self summary */
     height: 200 px;
     border: 1 px solid #000000;
 }
+.summmary {
+    color: #070755;
+}
 head {
     font-size: 20 px;
     font: "Helvetica";
+    color: #114669;
+}
+html {
+    background-color: aliceblue;
 }
