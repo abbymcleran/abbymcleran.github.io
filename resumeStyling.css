@@ -1,13 +1,13 @@
 /* stylizing the resume page */
 head {
-    font-size: 20 pt;
+    font-size: 20pt;
     font: "Helvetica";
 }
-h1, h2, h3, h4, h5 {
-    font-size: 15 pt;
+body {
+    font-size: 15pt;
     font: "Helvetica";
 }
 p {
-    font-size: 10 pt;
+    font-size: 10pt;
     font: "Helvetica";
 }

@@ -2,22 +2,22 @@
 paragraphs styled in helvetica with point 10 font, image must have solid
 border and set to left of self summary */
 p {
-    font-size: 10 pt;
+    font-size: 10pt;
     font: "Helvetica";
 }
 .picture {
     float: left;
-    border: 5 px solid #000000;
+    border: 5px solid #000000;
 }
 img{
-    height: 100 pt;
+    height: 100pt;
     width: auto;
 }
 .summmary {
     color: #070755;
 }
 h1 {
-    font-size: 20 pt;
+    font-size: 20pt;
     font: "Helvetica";
     color: #114669;
 }
