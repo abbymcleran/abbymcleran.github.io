@@ -7,13 +7,12 @@ p {
 }
 .picture {
     float: left;
-    height: 20 pt;
     border: 1 px solid #000000;
 }
 .summmary {
     color: #070755;
 }
-title {
+h1 {
     font-size: 20 pt;
     font: "Helvetica";
     color: #114669;
