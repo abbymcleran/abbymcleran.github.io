@@ -9,6 +9,10 @@ p {
     float: left;
     border: 1 px solid #000000;
 }
+img{
+    height: 100 px;
+    width: auto;
+}
 .summmary {
     color: #070755;
 }
