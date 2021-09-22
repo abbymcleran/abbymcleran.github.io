@@ -1,9 +1,9 @@
 /* stylizing the resume page */
-head {
+.header {
     font-size: 20pt;
     font: "Helvetica";
 }
-body {
+h1,h2,h3,h4,h5 {
     font-size: 15pt;
     font: "Helvetica";
 }
