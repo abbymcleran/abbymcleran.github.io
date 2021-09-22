@@ -10,11 +10,12 @@ p {
     border: 5px solid #000000;
 }
 img{
-    height: 100pt;
+    height: 200pt;
     width: auto;
 }
 .summmary {
     color: #070755;
+    padding-left: 50pt;
 }
 h1 {
     font-size: 20pt;
@@ -23,4 +24,7 @@ h1 {
 }
 body {
     background-color: aliceblue;
+}
+div {
+    width: 5px;
 }
