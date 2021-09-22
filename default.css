@@ -2,7 +2,7 @@
 paragraphs styled in helvetica with point 10 font, image must have solid
 border and set to left of self summary */
 p {
-    font-size: 10 px;
+    font-size: 10 pt;
     font: "Helvetica";
 }
 .picture {
