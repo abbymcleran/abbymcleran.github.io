@@ -7,15 +7,15 @@ p {
 }
 .picture {
     float: left;
-    width: 200 px;
-    height: 200 px;
+    width: 200 pt;
+    height: 200 pt;
     border: 1 px solid #000000;
 }
 .summmary {
     color: #070755;
 }
 head {
-    font-size: 20 px;
+    font-size: 20 pt;
     font: "Helvetica";
     color: #114669;
 }
