@@ -7,10 +7,10 @@ p {
 }
 .picture {
     float: left;
-    border: 10 px solid #000000;
+    border: 5 px solid #000000;
 }
 img{
-    height: 100 px;
+    height: 200 px;
     width: auto;
 }
 .summmary {
