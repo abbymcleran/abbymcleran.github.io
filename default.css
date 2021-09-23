@@ -14,13 +14,14 @@ img{
     width: auto;
 }
 .summmary {
-    color: #070755;
+    color: #3e3ea8;
     margin: 50pt;
 }
 h1 {
     font-size: 20pt;
     font: "Helvetica";
     color: #114669;
+    background-color: #756cc7
 }
 body {
     background-color: aliceblue;
