@@ -3,7 +3,7 @@ paragraphs styled in helvetica with point 10 font, image must have solid
 border and set to left of self summary */
 p {
     font-size: 10pt;
-    font: "Helvetica";
+    font-family: "Helvetica", "Arial", sans-serif;
 }
 .picture {
     float: left;
@@ -19,10 +19,10 @@ img{
 }
 h1 {
     font-size: 20pt;
-    font: "Helvetica";
+    font-family: "Helvetica", "Arial", sans-serif;
     color: #114669;
     background-color: #756cc7
 }
 body {
-    background-color: aliceblue;
+    background-color: rgb(149, 190, 226);
 }
